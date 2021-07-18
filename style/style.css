@@ -1,7 +1,10 @@
 header
 {
-　color: #EFC7A0;
-  font-size: 20px;
-  font-weight: 300;
-  box-sizing: border-box;
+  text-align: center;
+  background-color: #EFC7A0;
+  border-radius: 5px;
+  padding: 30px;
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 30px;
 }
