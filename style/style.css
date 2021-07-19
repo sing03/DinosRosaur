@@ -1,4 +1,4 @@
-body{marign: 0}
+body{marign: 0px}
 header
 {
   text-align: center;
@@ -6,7 +6,7 @@ header
   /*border-radius: 0px;*/
   padding: 20px 0 20px 0;
   width: 100%;
-  margin-bottom:30px;
+  margin-bottom: 30px;
 }
 
 /*#logo img
