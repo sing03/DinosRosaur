@@ -9,5 +9,6 @@ header
 }
 summary
 {
+  display: block;
   margin-left: 20px;
 }
