@@ -8,11 +8,11 @@ header
   margin-bottom: 30px;
 }
 
-/*summary
+summary
 {
   display: block;
   margin-left: 20px;
-}*/
+}
 
 summary ::marker 
 {
@@ -22,7 +22,6 @@ summary ::marker
   text-indent: 0px !important;
   text-align: start !important;
   text-align-last: start !important;
-  margin-left: 20px;
 }
 summary h6, p
 {
