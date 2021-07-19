@@ -24,3 +24,7 @@ summary ::marker
   text-align-last: start !important;
   margin-left: 20px;
 }
+summary h6, p
+{
+  margin-left: 20px;
+}
