@@ -8,17 +8,19 @@ header
   margin-bottom: 30px;
 }
 
-summary
+/*summary
 {
-  /*display: block;*/
+  display: block;
   margin-left: 20px;
-}
+}*/
 
-summary ::marker {
-    unicode-bidi: isolate;
-    font-variant-numeric: tabular-nums;
-    text-transform: none;
-    text-indent: 0px !important;
-    text-align: start !important;
-    text-align-last: start !important;
+summary ::marker 
+{
+  unicode-bidi: isolate;
+  font-variant-numeric: tabular-nums;
+  text-transform: none;
+  text-indent: 0px !important;
+  text-align: start !important;
+  text-align-last: start !important;
+  margin-left: 20px;
 }
