@@ -23,7 +23,7 @@ summary ::marker
   text-align: start !important;
   text-align-last: start !important;
 }
-summary h6, p
+summary h6,p
 {
   margin-left: 20px;
 }
