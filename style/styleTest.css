@@ -1,1 +1,15 @@
+header
+{
+  text-align: center;
+  background-color: #DEE3E8;
+  /*border-radius: 0px;*/
+  padding: 20px 0 20px 0;
+  width: 100%;
+  margin-bottom: 30px;
+}
 
+details
+{
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
